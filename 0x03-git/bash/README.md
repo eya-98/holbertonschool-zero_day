@@ -1,1 +1,1 @@
-read
+read bash directory

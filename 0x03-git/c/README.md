@@ -1,1 +1,1 @@
-readf
+read C directory

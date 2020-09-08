@@ -1,1 +1,1 @@
-read
+readjs directory

@@ -1,7 +1,1 @@
-#project
->Create a directory holbertonschool-zero_day 
->navigate to holbertonschool-zero_day
->I installed different command such as emacs and git
->initialize git and add the remote origin
->Create a file README.md
->i write a small Markdown text to present the project
+This repository contains Vagrant, Emacs, vi and git projects completed for my first day, zero-day, at Holberton School. it presents the first steps of preparing the environement of work.
